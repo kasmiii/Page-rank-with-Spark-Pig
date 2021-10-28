@@ -54,7 +54,7 @@ Where :
 **data.txt** is the data file text
 **1** is the number of page ranking iterations
 
-The general command syntax: **python3 pr.py <path/to/data> ** **<number of iterations>**
+The general command syntax: python3 pr.py <path/to/data> <number of iterations>
 
 **Notes:** 
   
